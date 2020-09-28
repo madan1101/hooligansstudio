@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+@import url("rates.css");
+@import url("publications.css");
+@import url("roles.css");
+@import url("education.css");
+@import url("gallery.css");
+@import url("contact.css");
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  margin: 0;
+}
+
+nav {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+}
+
+h1 {
+  letter-spacing: 10px;
+}
+
+h1: hover {
+  text-decoration: none;
+  color: rgb(204, 222, 213)
+  opacity: 50%;
+}
+
+#banner-font {
+  color: #d500f9;
+  font-family: Lato;
+/*  text-shadow: none;*/
+  letter-spacing: 10px:;
+}
+
+#homepage {
+  font-family: Allerta Stencil;
+  text-decoration: none;
+  color: #d500f9;
+}
+
+#homepage:hover {
+  color: white;
+  opacity: 50%;
+}
+
+.navbar {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 110px;
+  background-color: black;
+  color: #d500f9;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 0;
+  border-radius: 0px;
+}
+
+.whitespace {
+  height: 110px;
+  padding-bottom: 0px;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-family: Allerta Stencil;
+  color: #d500f9;
+  margin-bottom: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.navbar-brand:hover {
+  color: white;
+  opacity: 50%;
+}
+
+.list-inline {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  list-style: none;
+  padding-top: 20px;
+}
+
+.list-inline li {
+  display: inline-block;
+  justify-content: space-between;
+}
+

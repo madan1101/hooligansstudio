@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+.rates {
+  background-color: black;
+  height: 100%;
+  font-family: Allerta Stencil;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #d500f9;
+  padding-top: 100px;
+  padding-right: 300px;
+  padding-left: 300px;
+  padding-bottom: 200px;
+}
+
+.rates h2 {
+  font-family: Allerta Stencil;
+  padding-bottom: 20px;
+}
