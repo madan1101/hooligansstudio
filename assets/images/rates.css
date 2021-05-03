@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
 .rates {
-  background-color: black;
+  background-color: #FFFFFF;
   height: 100%;
   font-family: Allerta Stencil;
   font-size: 20px;
   line-height: 1.6;
-  color: #d500f9;
+  color: #000000;
   padding-top: 100px;
   padding-right: 300px;
   padding-left: 300px;
